@@ -1,0 +1,13 @@
+.OrderImg{
+    width: 100px;
+    height: 100px;
+}
+.MenuBar{
+    width: 50%;
+}
+.newOrder{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
